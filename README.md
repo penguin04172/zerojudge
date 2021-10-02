@@ -1,1 +1,1 @@
-"# Zerojudge"
+# Zerojudge
